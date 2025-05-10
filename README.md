@@ -28,4 +28,5 @@ How to run/setup the project (or import SQL)
 
 
 Screenshot or link to your ERD
-  ![image](https://github.com/user-attachments/assets/7178fe50-4f18-44dc-a515-74bc31dfee50)
+  ![image](https://github.com/user-attachments/assets/20aac053-57dd-47ab-9c7f-11df0d326c05)
+
